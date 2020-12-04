@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09571800-5cab-41a2-a3ec-02527be3f860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-beans-demo/java-beans-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-beans-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-beans-demo/src/main/java/com/anhuisunfei/ioc/java/beans/BeanInfoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-beans-demo/src/main/java/com/anhuisunfei/ioc/java/beans/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkinginspring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkinginspring/src/main/java/datasource/DynamicDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkinginspring/src/main/java/datasource/DynamicDataSourceContextHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkinginspring/src/main/java/datasource/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkinginspring/thinkinginspring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/thinkinginspring/target/" />
@@ -72,7 +54,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-beans-demo/src/main/java/com/anhuisunfei/ioc/java/beans/BeanInfoDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="340">
               <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -398,12 +380,12 @@
       <option name="presentableId" value="Default" />
       <updated>1606971968360</updated>
       <workItem from="1606971970014" duration="4068000" />
-      <workItem from="1607046542938" duration="4962000" />
+      <workItem from="1607046542938" duration="5703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9030000" />
+    <option name="totallyTimeSpent" value="9771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -416,9 +398,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -428,7 +409,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,7 +418,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -710,7 +691,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-beans-demo/src/main/java/com/anhuisunfei/ioc/java/beans/BeanInfoDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
+        <state relative-caret-position="340">
           <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
