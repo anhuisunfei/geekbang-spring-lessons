@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/geekbang-spring-lessons.iml" filepath="$PROJECT_DIR$/geekbang-spring-lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-beans-demo/java-beans-demo.iml" filepath="$PROJECT_DIR$/java-beans-demo/java-beans-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinkinginspring/thinkinginspring.iml" filepath="$PROJECT_DIR$/thinkinginspring/thinkinginspring.iml" />
+    </modules>
+  </component>
+</project>
